@@ -1,5 +1,5 @@
-# MNA EA
-<h3>PyEA</h3> <br>
+# PyEA
+<h3>Email Automator</h3> <br>
 This repository contains my python's project in order to automate mailbox messages.
 <table>
   <tr>
